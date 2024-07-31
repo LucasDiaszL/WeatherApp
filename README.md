@@ -1,5 +1,5 @@
 <h1>Weather App</h1>
-    <p><img src="" alt="Weather App"></p>
+    <p><img src="weather app/images/2.png" alt="Weather App"></p>
 
 <h2>Descrição</h2>
     <p>O <strong>Weather App</strong> é uma aplicação simples que exibe a previsão do tempo para diferentes cidades. Foi desenvolvida utilizando HTML, CSS e JavaScript, com o objetivo de praticar e demonstrar habilidades em desenvolvimento front-end.</p>
